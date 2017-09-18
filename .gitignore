@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Directories excluded from project
+.idea/
+**/bin
+**/obj
+**/Properties
+*.csproj
+*.sln
